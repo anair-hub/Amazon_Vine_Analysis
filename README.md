@@ -82,9 +82,9 @@ What percentage of Vine reviews were 5 stars? What percentage of non-Vine review
 
 ## Summary
 
-![question4a](Images/question4a.PNG) 
+![Question4a](Images/Question4a.PNG) 
 
-![question4b](Images/question4b.PNG) 
+![Question4b](Images/Question4b.PNG) 
 
 Total reviews were 40,565 and of that 15,711 were 5 starts which makes it upto 39 percent. Based on the results, there seems to be no positivity bias for the Vine program at all. 
 On furthur classification it can be seen that 51% of paid vine reviews were 5 stars and for unpaid vine reviews it was 39%. This shows that there was positive bias in the vine program.
